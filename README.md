@@ -1,6 +1,6 @@
 # Helm chart for deploying Navidrome to K8s
 
-Bare bones helm chart for deploying Navidrome to k8s. 
+Bare bones helm chart for deploying [Navidrome](https://www.navidrome.org/) to k8s.
 
 Expects to use NFS for 2 PVs. Chart will create the PV and PVCs so values under `persistenVolume` must be set correctly.
 
