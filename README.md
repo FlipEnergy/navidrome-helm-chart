@@ -1,3 +1,6 @@
+# Archiving in favor of using https://github.com/k8s-at-home/charts/tree/master/charts/navidrome
+
+---
 # Helm chart for deploying Navidrome to K8s
 
 Bare bones helm chart for deploying [Navidrome](https://www.navidrome.org/) to k8s.
